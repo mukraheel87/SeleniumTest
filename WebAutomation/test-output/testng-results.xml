@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-01-01T09:33:27Z" name="Default suite" finished-at="2020-01-01T09:33:47Z" duration-ms="20545">
+  <suite started-at="2020-02-07T09:34:00Z" name="Default suite" finished-at="2020-02-07T09:34:26Z" duration-ms="26375">
     <groups>
     </groups>
-    <test started-at="2020-01-01T09:33:27Z" name="Default test" finished-at="2020-01-01T09:33:47Z" duration-ms="20545">
+    <test started-at="2020-02-07T09:34:00Z" name="Default test" finished-at="2020-02-07T09:34:26Z" duration-ms="26375">
       <class name="WebAutomation.WebAutomation.MyClassTest">
-        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:WebAutomation.WebAutomation.MyClassTest@1a8df0b3]" started-at="2020-01-01T09:33:27Z" name="BeforeTest" finished-at="2020-01-01T09:33:42Z" duration-ms="15075" status="PASS">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:WebAutomation.WebAutomation.MyClassTest@1a8df0b3]" started-at="2020-02-07T09:34:00Z" name="BeforeTest" finished-at="2020-02-07T09:34:23Z" duration-ms="22527" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeTest -->
-        <test-method signature="LoginTest()[pri:0, instance:WebAutomation.WebAutomation.MyClassTest@1a8df0b3]" started-at="2020-01-01T09:33:42Z" name="LoginTest" description="This is my Login Test" finished-at="2020-01-01T09:33:46Z" duration-ms="4118" status="PASS">
+        <test-method signature="LoginTest()[pri:0, instance:WebAutomation.WebAutomation.MyClassTest@1a8df0b3]" started-at="2020-02-07T09:34:23Z" name="LoginTest" description="This is my Login Test" finished-at="2020-02-07T09:34:25Z" duration-ms="2647" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method is-config="true" signature="AfterTest()[pri:0, instance:WebAutomation.WebAutomation.MyClassTest@1a8df0b3]" started-at="2020-01-01T09:33:46Z" name="AfterTest" finished-at="2020-01-01T09:33:47Z" duration-ms="1241" status="PASS">
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:WebAutomation.WebAutomation.MyClassTest@1a8df0b3]" started-at="2020-02-07T09:34:25Z" name="AfterTest" finished-at="2020-02-07T09:34:26Z" duration-ms="1139" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterTest -->
