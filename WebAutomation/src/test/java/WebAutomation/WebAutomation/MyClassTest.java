@@ -71,7 +71,7 @@ public class MyClassTest {
 	  System.out.println("After Test");
 	  
 	 
-	  //quit the browser
+	  //quit the browser and next
       driver.quit();
   }
 
